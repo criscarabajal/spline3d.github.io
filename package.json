@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@splinetool/runtime": "^0.9.176",
+    "three": "^0.148.0"
+  }
+}
